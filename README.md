@@ -30,7 +30,7 @@ projeto_calculadora_web/
 │   ├── multiplicacao.html
 │   └── divisao.html
 └── static/             # Arquivos estáticos
-└── script.js
+    └── script.js
 ```
 
 ---
@@ -40,13 +40,13 @@ projeto_calculadora_web/
 Instale o Git, abra um terminal na pasta onde deseja salvar o projeto e clone o repositório:
 
 ```powershell
-git clone https://github.com/usuario/nome-do-repositorio.git
+git clone https://github.com/20JoaoMaia/projeto_calculadora.git
 ```
 
-Substitua o endereço de exemplo pela URL do repositório deste projeto. Em seguida, acesse a pasta criada pelo Git:
+Em seguida, acesse a pasta criada pelo Git:
 
 ```powershell
-cd nome-do-repositorio
+cd projeto_calculadora
 ```
 
 ## Criando e ativando o ambiente virtual no Windows
@@ -94,8 +94,9 @@ http://127.0.0.1:5000
 ```
 
 Para encerrar a aplicação, volte ao terminal e pressione `Ctrl+C`.
+
 ---
 
 ## Disciplina
 
-FLEXDACHT2.1B - Princ�pios de Constru��o de Algoritmos � UNIFESO 2026/2
+FLEXDACHT2.1B - Princípios de Construção de Algoritmos — UNIFESO 2026/2
