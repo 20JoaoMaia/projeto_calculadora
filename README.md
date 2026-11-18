@@ -94,3 +94,8 @@ http://127.0.0.1:5000
 ```
 
 Para encerrar a aplicaÃ§Ã£o, volte ao terminal e pressione `Ctrl+C`.
+---
+
+## Disciplina
+
+FLEXDACHT2.1B - Princípios de Construção de Algoritmos — UNIFESO 2026/2
